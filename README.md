@@ -1,1 +1,1 @@
-# portfolio
+# When I was working on this project, I found that structuring the HTML files were fairly simple excluding the image resizing. The real difficult part I had was on the CSS. When I was coding nothing seemed to work most of the time and because of the sheer amount of HTML code there was, the amount of CSS would be far more due to formatting. Getting blocks to where they need to be was harder than I anticipated considering moving things around the page can be a gamble because of screen sizes; you don't want something to go off the page.
