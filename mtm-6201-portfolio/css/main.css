@@ -60,14 +60,44 @@ header {
 }
 
 .logo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	text-align: center;
+	padding: 15px;
+}
+
+.main-nav {
+	text-align: center;
+	margin: 10px;
 }
 
 .main-nav a {
 	text-align: center;
 	text-decoration: none;
+}
+
+.search-bar {
+	margin: 15px;
+}
+
+.main-image {
+	text-align: center;
+	margin: 15px;
+}
+
+.image-nav {
+	text-align: center;
+	margin: 15px;
+}
+
+h2 a {
+	text-decoration: none;
+}
+
+.about-image, .projects-image, .contact-image {
+	opacity: 50%;
+}
+
+.about-page {
+	margin: 15px;
 }
 
 .paragraph-1 {
@@ -80,6 +110,7 @@ header {
 
 .form {
 	text-align: center;
+	margin: 16px;
 }
 
 /* Style inputs with type="text", select elements and textareas */
@@ -125,6 +156,17 @@ footer {
 	float: none;
 	display: block;
 	text-decoration: none;
+	text-align: center;
+	font-size: 24px;
+}
+
+.socials {
+	text-align: center;
+}
+
+.copyright {
+	text-align: center;
+	font-size: 24px;
 }
 
 a:link {
